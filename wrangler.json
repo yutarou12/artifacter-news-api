@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "artifacter-news-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "dd37b09a-839a-40e8-96a3-abf7e6e0c3e0",
+			"database_name": "artifacter-news"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
